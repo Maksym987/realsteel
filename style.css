@@ -1,0 +1,40 @@
+body {
+    background-color: yellowgreen
+}
+h1 {
+    color: aqua;
+    font-size: 40px;
+    text-align: center;
+}
+ul {
+    color: aqua;
+    font-size: 44px;
+    text-align: center;
+    text-shadow: 2px 2px 4px white;
+}
+
+li {
+    font-size: 22px;
+    color: red;
+}
+.text-1 {
+  color: red;
+}
+.text-2 {
+ color:orange;
+}   
+.text-3  {
+  color: blueviolet;
+}
+.text-4 {
+    color: rgb(0, 0, 0);
+}
+
+.photo-1 {
+  width: 500px;
+  height: 200px;
+  margin-left: 250px;
+}
+.linb {
+   text-decoration: none
+}
